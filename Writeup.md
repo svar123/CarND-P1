@@ -6,11 +6,11 @@
 
 [//]: # (Image References)
 
-[image1]: ./report_images/solidWhiteRight_grey.jpg "Grayscale"
-[image2]: ./report_images/solidWhiteRight_canny.jpg "Canny"
-[image3]: ./report_images/solidWhiteRight_roi.jpg "ROI"
-[image4]: ./report_images/solidWhiteRight_hough.jpg "Hough"
-[image5]: ./report_images/solidWhiteRight_final.jpg "Final"
+[image1]: solidWhiteRight_grey.jpg "Grayscale"
+[image2]: solidWhiteRight_canny.jpg "Canny"
+[image3]: solidWhiteRight_roi.jpg "ROI"
+[image4]: solidWhiteRight_hough.jpg "Hough"
+[image5]: solidWhiteRight_final.jpg "Final"
 
 ---
 
